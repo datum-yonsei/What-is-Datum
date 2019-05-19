@@ -30,16 +30,18 @@ If you feel you have been unfairly accused of violating this code of conduct, yo
 # Goals of the Academia
 There are two main goals for this program. We know that these are lofty goals. We do not pretend to know the optimal way to achieve them, but we think it’s worth trying. We expect all of you to help us improving our program so we can achieve these goals more effectively. Our two goals (in order of priority) are:
 
-** 1.	Exploring Topics of Data Science **
-** 2.	Building a Community of Data Scientists **
+**1.	Exploring Topics of Data Science**
+**2.	Building a Community of Data Scientists**
 
 ## Exploring Topics of Data Science
 This is our number one priority. We believe that the best way to learn is by doing, which is why you will work in teams to explore a topic of data science. Over the course of the Academia, you will gain hands-on experience not only with data science and technical skills, but also working collaboratively on a data science team, developing solutions in an agile way, and communicating your work effectively to technical and non-technical audiences.
 
 ## We start the summer off with a week of orientation, making sure everyone is:
-•	familiar with the goals of the program and what to expect
-•	getting to know each other better
-•	up to speed on the tools and approaches we will use throughout the Academia
+* familiar with the goals of the program and what to expect
+
+* getting to know each other better
+
+* up to speed on the tools and approaches we will use throughout the Academia
 
 We also provide ongoing training through lectures and workshops every two week throughout the summer. This will include both training sessions on technical skills required for every data science and sessions on concepts and skills required to work within the realm of social good. 
 
@@ -54,12 +56,17 @@ We hope (and expect) that your impact as a DATUM alum continues beyond. Whether 
 The Academia provides you with the opportunity to learn, work on challenging, exciting, and unique projects, and meet a lot of people with shared interests and goals. It is up to you to make sure you take advantage of these opportunities.
 We hope you might use the summer to:
 
-•	Learn about the challenges of data scientists
-•	Navigate the triangle between data and tech heavy work, deliverables that are actionable for your project partner, and the skills that you and your team bring to the table
-•	Rise to the challenge of working on a strong team with diverse experiences and strengths
-•	Embrace your own shortcomings as learning opportunities, exploring your limitations with respect to technical skills, new types of methods from different disciplines, project management, social issues, and teamwork
-•	Explore available roles in this field and find the one you are best suited to fill (or create a new one)
-•	Meet a group of members and project partners who have a wide variety of different skills and experiences; listen to and learn from them; and make new friends
+* Learn about the challenges of data scientists
+
+* Navigate the triangle between data and tech heavy work, deliverables that are actionable for your project partner, and the skills that you and your team bring to the table
+
+* Rise to the challenge of working on a strong team with diverse experiences and strengths
+
+* Embrace your own shortcomings as learning opportunities, exploring your limitations with respect to technical skills, new types of methods from different disciplines, project management, social issues, and teamwork
+
+* Explore available roles in this field and find the one you are best suited to fill (or create a new one)
+
+* Meet a group of members and project partners who have a wide variety of different skills and experiences; listen to and learn from them; and make new friends
 
 Throughout the Academia, we encourage you to share your ideas about how to improve the experience for yourself and others. We are constantly trying to improve the program every day as we learn from each cohort.
 
@@ -75,18 +82,26 @@ b.	The bi-weekly coding workshop will count as extra-credit towards your partici
 The program offers a lot of freedom to explore and learn, and some of your routines and responsibilities will project-specific; however, we expect all members to stick to the basic principles listed below at all times. The same principles apply to everybody else at the program, including mentors, project managers, and the program organizers. If you feel that anyone is not behaving in accordance with these guidelines, we invite you to bring it up constructively. If you are unsure who to address, or if you are uncomfortable doing so directly, you can bring up your concerns or suggestions.
 Be supportive, open-minded, and willing to compromise.
 
-•	DATUM brings together members and partners from different backgrounds and with different skills. In fact, this might be the best resource the program has to offer! Share your knowledge and your experience with each other. Be patient as you teach each other and have an open ear for your peers.
-•	Things might not go as you thought they would. It is natural that at times you may be disappointed or unhappy with your team members, mentors, project partner, or the program as a whole; similarly, there will be times when someone else feels that way toward you. Keep an open mind, communicate with everybody involved, and compromise. Neither your project, nor your team, nor the program will be perfect. Remember that everyone involved has invested a lot in the program and want all participants to be happy.
+* DATUM brings together members and partners from different backgrounds and with different skills. In fact, this might be the best resource the program has to offer! Share your knowledge and your experience with each other. Be patient as you teach each other and have an open ear for your peers.
+
+* Things might not go as you thought they would. It is natural that at times you may be disappointed or unhappy with your team members, mentors, project partner, or the program as a whole; similarly, there will be times when someone else feels that way toward you. Keep an open mind, communicate with everybody involved, and compromise. Neither your project, nor your team, nor the program will be perfect. Remember that everyone involved has invested a lot in the program and want all participants to be happy.
+
 Be professional. We expect you to be professional — that is, respectful, friendly, and on time — in your conduct with partners and the public alike.
+
 Be resourceful and pragmatic. Own your own learning. Seek out resources as necessary. Don't be shy to ask others for help, but also be mindful of their time. When you notice problems or have ideas for improvements — be it in your team, your project, or the program — don’t rely on others to fix them; offer your initiative.
+
 Deal with conflicts maturely. There are many potential sources of conflict throughout the program— so it is perfectly acceptable and expected that you might run into conflicts with your team, your mentors, your project, or the academia organizers. In any case, we ask you to be productive, pragmatic, and mature when dealing with conflicts. We have listed some of the resources available to you when working through them below.
+
 Show up. We have all committed to be here for the duration of the program. However, we recognize that you have a life and may have attendance conflicts. If you have any known or potential absences, you must tell DATUM staff upon your acceptance. Any additional attendance conflicts that might arise must be discussed and agreed upon by your team and project manager well ahead of time.
+
 Stay involved and act as a steward. As a member of the DATUM community, we expect a commitment from you to stay involved. We ask you to seek opportunities to present the work you did, whether it's at your university, company, or social good and technology events near you. We ask you to assist your team in writing publications about your project, both during and after the academia.  We will ask you to help us with the application process in the following years by reviewing applications and interviewing candidates. We ask that you do what you're able to contribute to the DATUM mission and community.
  
 ** DON'T PANIC **
 Regardless of how much experience you have, we admitted you because we believe that you can make a valuable contribution to your cohort, and we think being a DATUM member will help prepare you to do data science in the real world. We've made a commitment to you and want to do everything we can to help you succeed. This is really important, so we'll say it again, in bold: If you're reading this, you are here because we want you to be here and believe that you are ready to make an impact. For example, don't worry about how much more or less productive, knowledgeable, or experienced other members in your cohort might appear to be. It's easy to only see the people who are doing particularly well, even though in reality, everybody has more and less productive times.
  
+ 
 # The Environment
+
 
 ## The People
 
@@ -99,10 +114,15 @@ The Academia Organizers have spent months planning and preparing the program The
 The Learning
 
 Our goal is for you to learn a LOT this summer. We want you to feel empowered to drive your education throughout the summer. We see learning opportunities falling into three main buckets:
-•	Self-Directed Learning: We will share specific resources and guidelines for topics that we find useful in order to kick-start this learning process. We then encourage you to dive in and learn the skills most applicable to you and your growth.
-•	Peer-Directed Learning: We aim to create an environment that facilitates learning among members. Whether it’s an informal discussion over lunch or a more formal teaching session, we encourage you to take advantage of the diversity of experiences and skills in the room.
-•	Member-Directed Learning: Lastly, we have developed few specific workshop curriculum to cover basic concepts that we believe are essential for the program.
+
+* Self-Directed Learning: We will share specific resources and guidelines for topics that we find useful in order to kick-start this learning process. We then encourage you to dive in and learn the skills most applicable to you and your growth.
+
+* Peer-Directed Learning: We aim to create an environment that facilitates learning among members. Whether it’s an informal discussion over lunch or a more formal teaching session, we encourage you to take advantage of the diversity of experiences and skills in the room.
+
+* Member-Directed Learning: Lastly, we have developed few specific workshop curriculum to cover basic concepts that we believe are essential for the program.
+
 As stated previously, it is up to you to make sure you are seeking the resources you need to learn the skills you want to learn. That being said, if you are lost, speak up. You shouldn't feel that you are unable to make a meaningful contribution to your project. 
+
 In all of this, we recognize that there is no definitive curriculum or roadmap. We are charting new territory and developing it together. Throughout the program, there will be plenty of opportunities for feedback and brainstorming on how to improve learning.
 
 ## The Tools
@@ -122,12 +142,18 @@ After orientation, you will spend the first part of the program getting to know 
 
 # Working on Your Project
 You will have the opportunity to explore a certain topic in the Technology Management field and to write a dissertation about the topic. You will be responsible for all of the following:
-•	Explore your data
-•	Design your project workflow
-•	Build relevant models
-•	Improve feature and pipeline engineering
-•	Evaluate using the metrics that make sense for your project
-•	Develop additional final deliverables if needed. (API, dashboard applications, etc)
+
+* Explore your data
+
+* Design your project workflow
+
+* Build relevant models
+
+* Improve feature and pipeline engineering
+
+* Evaluate using the metrics that make sense for your project
+
+* Develop additional final deliverables if needed. (API, dashboard applications, etc)
 
 # Presentations
 We believe that our work is only useful if we are able to communicate about it with our partners, peers, as well as the general public. As such, an important piece of this training program is learning to present about the work you do.
@@ -140,38 +166,55 @@ Datum is a yearly segmented Academia focused on studying Data Science!
 Here is the basic outline of our activity. 
 
 During the Summer Vacation: 
-•	Membership Training (One night two days)
-•	Learning Python from Codecademy
-•	Learning the basics of Data Science 
-•	Meeting once every week to develop your programming skills 
+
+* Membership Training (One night two days)
+
+* Learning Python from Codecademy
+
+* Learning the basics of Data Science 
+
+* Meeting once every week to develop your programming skills 
 
 During Semester 2: 
-•	Day of orientation
-•	Meeting once every week 
-•	Meeting with advisor 
-•	Self-directed work
-•	Studying Data Science & Python 
+
+* Day of orientation
+
+* Meeting once every week 
+
+* Meeting with advisor 
+
+* Self-directed work
+
+* Studying Data Science & Python 
+
 
 During Winter Vacation 
-•	Competitions 
-•	Presenting your progress 
-•	Studying Data Science & Python and finding your niche 
+
+* Competitions 
+
+* Presenting your progress 
+
+* Studying Data Science & Python and finding your niche 
+
 
 During Semester 1: 
-•	Working a real case & creating your own case 
-•	Certificates studies (Python Certificates, Computer User in Field of Spreadsheet and Database)
+
+* Working a real case & creating your own case 
+
+* Certificates studies (Python Certificates, Computer User in Field of Spreadsheet and Database)
+
  
 ## Advice
 If you're relatively new to programming
-•	Choose a language and stick to it. Python or Ruby is probably best; JavaScript and many others are also ok.
-•	Choose a text editor that is easy to learn and stick to it. If you're not sure which one to choose, Sublime Text is powerful, intuitive, and available on Mac, Windows and Linux.
-•	Avoid large frameworks like Rails and Django until you've got a decent grasp on the language you're using.
-•	Write lots of code. The specific code you write is less important than that you write lots of code.
-•	Don't worry about choosing the "perfect" project. It's easy to let the perfect be the enemy of the good when it comes to project selection.
-•	Have your code reviewed regularly, ideally by someone who knows the language you're working in well.
-•	Pair program, ideally with people who know the language you're working in well.
-•	Develop a good mental model of your code.
-•	Become a systematic debugger. That is to say, debug by gathering information, making a hypothesis about what's wrong, and testing your hypothesis, as opposed to just changing things until it works.
+* Choose a language and stick to it. Python or Ruby is probably best; JavaScript and many others are also ok.
+* Choose a text editor that is easy to learn and stick to it. If you're not sure which one to choose, Sublime Text is powerful, intuitive, and available on Mac, Windows and Linux.
+* Avoid large frameworks like Rails and Django until you've got a decent grasp on the language you're using.
+* Write lots of code. The specific code you write is less important than that you write lots of code.
+* Don't worry about choosing the "perfect" project. It's easy to let the perfect be the enemy of the good when it comes to project selection.
+* Have your code reviewed regularly, ideally by someone who knows the language you're working in well.
+* Pair program, ideally with people who know the language you're working in well.
+* Develop a good mental model of your code.
+* Become a systematic debugger. That is to say, debug by gathering information, making a hypothesis about what's wrong, and testing your hypothesis, as opposed to just changing things until it works.
 •	Write small programs from scratch.
 •	 åBecome comfortable with your tools, but don't go overboard yak-shaving. Learn to use git, GitHub, a text editor and your language's debugger.
 •	Avoid distractions.

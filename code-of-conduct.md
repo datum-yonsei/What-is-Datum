@@ -96,8 +96,10 @@ Show up. We have all committed to be here for the duration of the program. Howev
 
 Stay involved and act as a steward. As a member of the DATUM community, we expect a commitment from you to stay involved. We ask you to seek opportunities to present the work you did, whether it's at your university, company, or social good and technology events near you. We ask you to assist your team in writing publications about your project, both during and after the academia.  We will ask you to help us with the application process in the following years by reviewing applications and interviewing candidates. We ask that you do what you're able to contribute to the DATUM mission and community.
  
-** DON'T PANIC **
+> ________________
+> ## _DON'T PANIC_
 Regardless of how much experience you have, we admitted you because we believe that you can make a valuable contribution to your cohort, and we think being a DATUM member will help prepare you to do data science in the real world. We've made a commitment to you and want to do everything we can to help you succeed. This is really important, so we'll say it again, in bold: If you're reading this, you are here because we want you to be here and believe that you are ready to make an impact. For example, don't worry about how much more or less productive, knowledgeable, or experienced other members in your cohort might appear to be. It's easy to only see the people who are doing particularly well, even though in reality, everybody has more and less productive times.
+> ________________
  
  
 # The Environment

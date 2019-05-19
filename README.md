@@ -18,4 +18,4 @@ We have spent many (sort of) early mornings and late nights waxing existential w
 - **Communications,** because you'll need to be able to tell the story of why what you're doing matters and the methods you're using to a broad audience.
 
 ## What else?
-If you are interested and want to learn more, refer to our code of conduct[
+If you are interested and want to learn more, refer to our code of conduct[README.md]

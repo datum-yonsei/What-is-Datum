@@ -127,8 +127,11 @@ As stated previously, it is up to you to make sure you are seeking the resources
 
 In all of this, we recognize that there is no definitive curriculum or roadmap. We are charting new territory and developing it together. Throughout the program, there will be plenty of opportunities for feedback and brainstorming on how to improve learning.
 
+## Activity Fee##
+Our activity fee will be used towards snacks, rent, books, catering or any other events held under the Datum name. 
+
 ## The Tools
-We typically use GitHub for storing our codebase, KakaoTalk for communication, and Google Drive for project management. We also store team-wide documents on Google Drive
+We typically use GitHub for storing our codebase, KakaoTalk for communication, and Google Drive for project management. We also store team-wide documents on Google Drive. Most of the activity will be held on GitHub where you can edit and clone projects. 
 
 ## The Communication
 Teams will work together to develop specific team norms. Teams will have weekly conference calls with their project partner to provide updates, ask questions, and receive feedback on their progress.
